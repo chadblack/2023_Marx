@@ -1,36 +1,64 @@
 ---
-title: Calendar 
+title: calendar 
 ---
 
-## Week 1: Introduction 
+## Week 1: Preliminaries
 
-## Week 2: 
+Benjamin and Tosaka
 
-## Week 3: 
+## Week 2: Capital
 
-## Week 4: 
+Capital Vol. 1
 
-## Week 5:  
+## Week 3: Marx after Marx
 
-## Week 6:   
+Harootunian, Marx after Marx
 
-## Week 7:  
+## Week 4:  New World Origins
+
+Tutino, Making a New World
+
+## Week 5: Jesuit Gains
+
+Owensby, New World of Gain
+
+## Week 6:   Biopolitics of Accumulation
+
+Daniel Nemser, Infrastructures of Race
+
+## Week 7:  Slavery, Sugar, Capital
+
+Tomich, Slavery in the Circuit of Sugar
 
 ## Week 8: Spring Break!!
-  
 
-## Week 9:   
+## Week 9:   Mexican Revolution
 
-## Week 10:   
+Adolfo Gilly, The Mexican Revolution
 
-## Week 11:   
+## Week 10:   Mariátegui
 
-## Week 12:  
+Seven Theses and other essays
 
-## Week 13:   
+## Week 11:   Indigenous Communisms
 
-## Week 14:   
+Marc Becker, Indians and Leftists in the Making of 
 
-## Week 15:   
+## Week 12:  Cuban Revolution
 
-## Week 16: 
+## Week 13:   Guevarism
+
+Selected writings by Ernesto Guevara
+
+## Week 14:   State Terrors
+
+
+## Week 15:   Marx and Freud
+
+Bosteels, Marx and Freud in Latin America
+
+## Week 16: Enrique Dussel
+
+
+
+
