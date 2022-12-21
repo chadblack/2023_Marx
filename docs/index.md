@@ -2,7 +2,7 @@
 hide:
  - navigation
  - toc
-title: Welcome 
+title: Welcome Theory, Marx, Latin America 
 ---
 
-![[img/pele-bicicleta.jpg]]
+![[historia_lucha.png]]

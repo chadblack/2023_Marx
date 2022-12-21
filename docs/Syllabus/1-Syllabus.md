@@ -1,21 +1,13 @@
 ---
-hide:
-  - navigation
 title: syllabus 
 ---
 
-### History of Latin American Sport
+## Theory, Marx, Latin America
 
-HILA 484   
-TR 12:55-2:10   
-BUE 476   
+HIST 593 
 Spring 2023  
 
 **Prof. Chad Black**
-
-**Email:** cblack6-at-utk.edu   
-**Office:** 2627 Dunford Hall, 6th Floor  (until they burn old Dunford down)
-**Office Hours:** Tuesday, 2:30-4:30, or by appointment.
 
 ### About
 
