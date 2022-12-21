@@ -1,7 +1,4 @@
 ---
-hide:
- - navigation
- - toc
 title: Welcome Theory, Marx, Latin America 
 ---
 
