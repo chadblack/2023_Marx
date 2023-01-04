@@ -2,6 +2,8 @@
 title: calendar 
 ---
 
+# Calendar
+
 ## Week 1: Preliminaries
 
 Hegel, Benjamin, Tosaka

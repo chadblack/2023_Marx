@@ -2,6 +2,8 @@
 title: assignments
 ---
 
+# Assignments
+
 ## Weekly Memos
 For each week's readings, students will write a response paper in the form of a [[Resources/how to write a precis and memo|research memo]]. The goal of the memo is to synthesize in one or two pages the argument of the work, placing it within the larger context of the semester and the literature.
 
