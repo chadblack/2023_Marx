@@ -4,7 +4,7 @@ title: calendar
 
 # Calendar
 
-## Week 1: Preliminaries
+## Week 1: Preliminaries (Jan 25)
 
 Hegel, Benjamin, Tosaka
 
@@ -19,7 +19,7 @@ Recommended for more on Benjamin:
 - Löwy, Michael. *Fire Alarm: Reading Walter Benjamin's 'On the Concept of History'*. New York: Verso, 2016.
 - Jameson, Federic. *The Benjamin Files*. New York: Verso, 2020. 
 
-## Week 2: Marx's Capital
+## Week 2: Marx's Capital (Feb 1)
 
 Readings:
 
@@ -29,40 +29,40 @@ Recommended for help with *Capital*:
 
 - Harvey, David. *A Companion to Marx's Capital*. New York: Verso, 2010.
 
-## Week 3: Marx after Marx
+## Week 3: Marx after Marx (Feb 8)
 
 Readings:
 
 1. Harootunian, Harry. *Marx after Marx: History and Time in the Expansion of Capitalism*. New York: Columbia University Press, 2015.
 
-## Week 4:  New World Origins
+## Week 4:  New World Origins (Feb 15)
 Readings:  
 
 1. Tutino, John.  *Making a New World: Founding Capitalism in the Bajío and Spanish North America*. Durham: Duke University Press, 2011.
 
-## Week 5: Jesuit Gains
+## Week 5: Jesuit Gains (Feb 22)
 Readings: 
 
 1. Owensby, Brian P.  *New World of Gain: Europeans, Guaraní, and the Global Origins of Modern Economy*. Stanford: Stanford University Press, 2022.
 
-## Week 6:   Biopolitics of Accumulation
+## Week 6:   Biopolitics of Accumulation (Mar 1)
 Readings:
 
 1. Nemser, Daniel.  *Infrastructures of Race: Concentration and Biopolitics in Colonial Mexico*. Austin: University of Texas Press, 2017. 
 
-## Week 7:  Slavery, Sugar, Capital
+## Week 7:  Slavery, Sugar, Capital (Mar 8)
 Readings:  
 
 1. Tomich, Dale W. *Slavery in the Circuit of Sugar: Martinique and the World-Economy 1830-1848*. Second edition. New York: SUNY Press and Braudel Center, 2016. 
 
-## Week 8: Spring Break!!
+## Week 8: Spring Break!! (Mar 15)
 
-## Week 9:   Mexican Revolution
+## Week 9:   Mexican Revolution (Mar 22)
 Readings:  
 
 1. Gilly, Adolfo. *The Mexican Revolution: A New Press People's History*. Trans. by Patrick Camiller. New York: The New Press, 2005. Originally, *La revolución interumpida* (1971).
 
-## Week 10:   Mariátegui
+## Week 10:   Mariátegui (Mar 29)
 Readings:
 
 1. Vanden, Harry E. and Marc Becker, eds. and trans. *José Carlos Mariátegui: An Anthology*. New York: Monthly Review Press, 2011. 
@@ -71,18 +71,18 @@ Recommended:
 
 - Mariátegui, José Carlos. *Seven Interpretive Essays On Peruvian Reality*. Trans. by Marjory Urquidi. Austin: University of Texas Press, 1971.
 
-## Week 11:   Indigenous Communisms?
+## Week 11:   Indigenous Communisms? (Apr 5)
 Readings:
 
 1. Becker, Marc. *Indians and Leftists in the Making of Ecuador's Modern Indigenous Movements*. Durham: Duke University Press, 2008.
 
-## Week 12:  Whither Modernization?
+## Week 12:  Whither Modernization? (Apr 12)
 Readings:
 
 1. Gunder Frank, Andre. *Capitalism and Underdevelopment in Latin America: Historical Studies of Chile and Brazil*. New York: Monthly Review Press, 1969.
 2. Laclau, Ernesto. "Feudalism and Capitalism in Latin America" *New Left Review* 67 (1971).
 
-## Week 13:   Guevarism
+## Week 13:   Guevarism (Apr 19)
 Readings:
 
 1. "The Role of the Doctor in Latin America." (1954-1956)
@@ -92,18 +92,18 @@ Readings:
 5. "Socialism and man in Cuba" (1965)
 6. Chase, Michelle. "The Trials: Violence and Justice in the Aftermath of the Cuban Revolution," pp. 163-198 in Gil Joseph and Greg Grandin, ed. *A Century of Revolution: Insurgent and Counterinsurgent Violence during Latin America's Long Cold War*. Durham: Duke University Press, 2010.
 
-## Week 14:   State Terrors
+## Week 14:   State Terrors (Apr 26)
 Readings:
 
 1. Joseph and Grandin, eds. *A Century of Revolution*. Part Three: The Weight of the Night. 
 2. Weld, Kirsten. *Paper Cadavers: The Archives of Dictatorship in Guatemala*. Durham: Duke University Press, 2014.
 
-## Week 15:   Marx and Freud
+## Week 15:   Marx and Freud (May 1)
 Readings:
 
 1. Bosteels, Burno. *Marx and Freud in Latin America: Politics, Psychoanalysis, and Religion in Times of Terror*. New York: Verso Press, 2012.
 
-## Week 16: Wrap.
+## Week 16: Wrap up as needed (May 10)
 Readings:
 	1. T.B.D.
 
